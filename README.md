@@ -1,2 +1,2 @@
 # python-project
-Real time facial emotion project
+Real time facial emotion project.
