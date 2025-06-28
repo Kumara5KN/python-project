@@ -17,7 +17,6 @@ This is a Python-based real-time facial emotion recognition system that detects 
 ## 🖼️ Demo Screenshot
 
 ![App Screenshot](Interface1.png)
-![App Screenshot](Interface2.png)
 ![App Screenshot](Interface3.png)
 ![App Screenshot](Interface4.png)
 
