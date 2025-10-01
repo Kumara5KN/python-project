@@ -38,7 +38,7 @@ This is a Python-based real-time facial emotion recognition system that detects 
 2. **Model Training**: Used CNN (Convolutional Neural Network) with FER2013.
 3. **GUI Development**: Created interface using Tkinter with buttons and frames.
 4. **Integration**: Real-time webcam + image upload with prediction.
-5. **Output Display**: Shows emotion percentage + emoji icons.
+5. **Output Display**: Shows emotion percentage.
 
 ---
 
